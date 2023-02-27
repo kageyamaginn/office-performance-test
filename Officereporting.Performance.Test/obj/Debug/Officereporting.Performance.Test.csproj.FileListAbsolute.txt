@@ -1,0 +1,8 @@
+D:\Projects\SVN Projects\beijing-repo\PLM\Pei.OfficeReporting\Officereporting.Performance.Test\bin\Debug\Officereporting.Performance.Test.exe.config
+D:\Projects\SVN Projects\beijing-repo\PLM\Pei.OfficeReporting\Officereporting.Performance.Test\bin\Debug\Officereporting.Performance.Test.exe
+D:\Projects\SVN Projects\beijing-repo\PLM\Pei.OfficeReporting\Officereporting.Performance.Test\bin\Debug\Officereporting.Performance.Test.pdb
+D:\Projects\SVN Projects\beijing-repo\PLM\Pei.OfficeReporting\Officereporting.Performance.Test\obj\Debug\Officereporting.Performance.Test.csproj.AssemblyReference.cache
+D:\Projects\SVN Projects\beijing-repo\PLM\Pei.OfficeReporting\Officereporting.Performance.Test\obj\Debug\Officereporting.Performance.Test.csproj.SuggestedBindingRedirects.cache
+D:\Projects\SVN Projects\beijing-repo\PLM\Pei.OfficeReporting\Officereporting.Performance.Test\obj\Debug\Officereporting.Performance.Test.csproj.CoreCompileInputs.cache
+D:\Projects\SVN Projects\beijing-repo\PLM\Pei.OfficeReporting\Officereporting.Performance.Test\obj\Debug\Officereporting.Performance.Test.exe
+D:\Projects\SVN Projects\beijing-repo\PLM\Pei.OfficeReporting\Officereporting.Performance.Test\obj\Debug\Officereporting.Performance.Test.pdb
